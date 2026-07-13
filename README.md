@@ -58,7 +58,7 @@
 <div align="center">
 
 <a href="https://github.com/stopwater47">
-  <img src="https://render.gitanimals.org/lines/stopwater47?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/stopwater47?pet-id=1" width="1000" height="180"/>
 </a>
 
 </div>
