@@ -2,7 +2,7 @@
 
 <div align="center">
 
-꿈은 **기획과 개발을 연결하는 PM**이 되는 것 🚀  
+꿈은 **PM**이 되는 것 🚀  
 사용자 경험을 고민하고, 아이디어를 현실로 만드는 걸 좋아합니다.
 
 </div>
@@ -27,12 +27,7 @@
 ## 🌱 Currently
 - 🎓 Computer Engineering @ Jeju National University  
 - 🦁 14th Lion @ LIKELION JNU  
-
----
-
-## 🔥 Goal
-멋쟁이사자에서 경험을 쌓으며  
-지속적으로 성장하는 개발자가 되기
+- 🌍 WFK IT Volunteer Group @ Vietnam
 
 ---
 
@@ -40,7 +35,6 @@
 <div align="center">
 
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.naver.com/wiseexcel)
-
 </div>
 
 ---
@@ -49,9 +43,22 @@
 
 <div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 ![3ds Max](https://img.shields.io/badge/3ds%20Max-00AEEF?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 시간 부족이슈 여기까지 ㅠㅠ
+---
+
+<div align="center">
+
+<a href="https://github.com/stopwater47">
+  <img src="https://render.gitanimals.org/lines/stopwater47?pet-id=1" width="1000" height="120"/>
+</a>
+
+</div>
